@@ -3,11 +3,11 @@
 ### CSCI 1112 - Object Oriented Programming
 
 ## **Synopsis**
-##### This is the final project for the Object Oriented Programming II (CSCI 1112) class. The project tests contains code that records and creates a report of grades input by the user.
+##### This is the final project for the Object Oriented Programming II (CSCI 1112) class. The project contains code that records and creates a report of grades input by the user.
 ##### This repository will also be used to save coursework from the class.
 
 ## **Motivation**
-##### I built this program to help the users such as teachers and instructors to record grades and create a report which can also be optionally sorted
+##### I built this program to help users such as teachers and instructors to record grades and create a report which can also be optionally sorted
 in order of performance.
 
 ## **Code Example**
